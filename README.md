@@ -24,29 +24,7 @@ Evaluates model performance with accuracy metrics
 
 Supports training and inference on custom datasets
 
-Requirements
 
-
-
-
-
-Python 3.8+
-
-
-
-TensorFlow/Keras
-
-
-
-OpenCV
-
-
-
-NumPy
-
-
-
-Matplotlib
 
 
 
